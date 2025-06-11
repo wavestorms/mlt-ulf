@@ -3,6 +3,7 @@ MLT dependent ULF index
 
 ## Requirements
 The wavelet transform is done by using a module called PyCWT. Installation instructions can be found in https://pycwt.readthedocs.io/
+
 [numpy](https://numpy.org/)
 [netCDF4](https://unidata.github.io/netcdf4-python/)
 [pandas](https://pandas.pydata.org/)
