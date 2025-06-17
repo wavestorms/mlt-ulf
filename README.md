@@ -28,12 +28,6 @@ Choose which magnetic field component:
 component = 'N'
 ```
 
-If you want to calculate the narrowband index instead of the Pc5 index, change `False` to `True`:
-```
-# calculate narrowband index?
-narrow = False
-```
-
 ## Data
 Index for years 1995–2023 in the latitude range 65–70 can be downloaded from [zenodo](https://doi.org/10.5281/zenodo.15372450)
 
