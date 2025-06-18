@@ -24,7 +24,7 @@ lat_set = (65,70)
 
 Choose which magnetic field component:
 ```
-# component (N,E or H)
+# component (N, E or H)
 component = 'N'
 ```
 
@@ -32,4 +32,8 @@ component = 'N'
 Index for years 1995–2023 in the latitude range 65–70 can be downloaded from [zenodo](https://doi.org/10.5281/zenodo.15372450)
 
 ## References
-Torrence, C. and Compo, G. P.. A Practical Guide to Wavelet Analysis. Bulletin of the American Meteorological Society, American Meteorological Society, 1998, 79, 61-78.
+Torrence, C. and Compo, G. P.. (1998). *A Practical Guide to Wavelet Analysis.* Bulletin of the American Meteorological Society, American Meteorological Society 79, 61-78.
+
+Lipsanen, V. (2024). *Correlation of solar wind parameters and MLT dependent ground-based ULF wave index during large solar wind structures.* [Master's Thesis, University of Helsinki]. https://helda.helsinki.fi/items/1446e026-50fd-453b-b8dc-1a1db3840b19
+
+Lipsanen, V., Turc, L., Hoilijoki, S., Oliveira, D.M., Dahani, S., Tao, S., Kalliokoski, M., Ojuva, M., Kilpua, E.K.J., (2025). *Local time dependence of ULF wave activity driven by interplanetary shocks and foreshock transients, using a new ULF index.* [Manuscript to be submitted to JGR: Space Physics]
