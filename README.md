@@ -2,7 +2,6 @@
 A jupyter notebook for calculating a magnetic local time dependent Pc5 ultra-low frequency wave index from [SuperMAG](https://supermag.jhuapl.edu/mag/) data. It uses wavelet transform to get the power and the scale-averaged wavelet (equation 24 in Torrence and Compo) to resolve power in the Pc5 band.
 
 ## Requirements
-This script requires: [numpy](https://numpy.org/), [netCDF4](https://unidata.github.io/netcdf4-python/), [pandas](https://pandas.pydata.org/).
 The wavelet transform is done by using a module called PyCWT. Installation instructions can be found at: https://pycwt.readthedocs.io/
 
 ## Setting up
