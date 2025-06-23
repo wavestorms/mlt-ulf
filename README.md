@@ -28,7 +28,7 @@ component = 'N'
 ```
 
 ## Data
-Index for years 1995–2023 in the latitude range 65–70 can be downloaded from [zenodo](https://doi.org/10.5281/zenodo.15372450)
+Index for years 1995–2023 in the latitude range 65°–70° can be downloaded from [zenodo](https://doi.org/10.5281/zenodo.15372450)
 
 ## References
 Torrence, C. and Compo, G. P.. (1998). *A Practical Guide to Wavelet Analysis.* Bulletin of the American Meteorological Society, American Meteorological Society 79, 61-78.
