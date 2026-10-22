@@ -35,4 +35,4 @@ Torrence, C. and Compo, G. P.. (1998). *A Practical Guide to Wavelet Analysis.* 
 
 Lipsanen, V. (2024). *Correlation of solar wind parameters and MLT dependent ground-based ULF wave index during large solar wind structures.* [Master's Thesis, University of Helsinki]. https://helda.helsinki.fi/items/1446e026-50fd-453b-b8dc-1a1db3840b19
 
-Lipsanen, V., Turc, L., Hoilijoki, S., Oliveira, D.M., Dahani, S., Tao, S., Kalliokoski, M., Ojuva, M., Kilpua, E.K.J., (2025). *Local time dependence of ULF wave activity driven by interplanetary shocks and foreshock transients, using a new ULF index.* [Manuscript to be submitted to JGR: Space Physics]
+Lipsanen, V., Turc, L., Hoilijoki, S., Oliveira, D.M., Dahani, S., Tao, S., Kalliokoski, M., Ojuva, M., Kilpua, E.K.J., (2025). *Local Time Dependence of High-Latitude Pc5 Wave Activity Driven by Interplanetary Shocks and Foreshock Transients, Using a New ULF Index* Journal of Geophysical Research: Space Physics, 130, e2025JA034378. https://doi.org/10.1029/2025JA0343782, 2025
